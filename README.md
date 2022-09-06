@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @edivaldojunior07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-edivaldojunior07/edivaldojunior07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋Oi, eu sou @edivaldojunior07
+👀Estou interessado em ingressar em uma equipe de desenvolvimento
+🌱atualmente trabalho como analista de suporte na OI, atuo com base de dados (Excel) com uma grande quantidade de registros, para facilitar trabalho da equipe desenvolvi sistema de registro com VBA. 
+💞️Procuro colaborar em projetos que possam me desafiar a continuar aprendendo independente de linguagem ou frameworks  
+📫Como chegar até mim através e-mail junior.pro07@gmail.com
